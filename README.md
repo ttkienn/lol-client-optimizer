@@ -1,6 +1,6 @@
-# 🚀 **Pengu LoL Client Optimizer** (Potato PC Edition) 💀
+# 🚀 **LoL Client Optimizer** (Potato PC Fix) 💀
 
-Rito's client is fr built diff (in a bad way) & eats RAM 8 breakfast 🤡. I made this tiny **Pengu Loader** plugin 2 save our potato PCs. No cap, just pure FPS rn.
+Rito's client is fr dogwater & eats RAM 8 breakfast 🤡. Ngl, it's lowkey a crypto miner at this point. I made this tiny **Pengu Loader** plugin 2 save our potato PCs. No cap, just pure FPS.
 
 ---
 
@@ -9,7 +9,7 @@ Rito's client is fr built diff (in a bad way) & eats RAM 8 breakfast 🤡. I mad
 | Feature | What it do? |
 | :--- | :--- |
 | 🔪 **Vid Killer** | Insta-nukes bg vids & forces RAM clear. Bye memory leaks 👋 |
-| 🎯 **TFT Stays** | **TFT** & main nav = untouched. Dead modes get sent 2 shadow realm 🗑️ |
+| 🎯 **TFT Stays** | **TFT** & main nav = untouched. Junk modes get sent 2 shadow realm 🗑️ |
 | ⚡ **0-Lag UI** | Ripped out heavy CSS (box-shadow/blurs). Ur GPU can finally breathe tbh |
 
 ---
@@ -25,8 +25,8 @@ Rito's client is fr built diff (in a bad way) & eats RAM 8 breakfast 🤡. I mad
 
 ---
 
-> [!TIP]
-> **Pro-tip:** Code này thuần Vanilla JS, cực nhẹ, ko lo dính virus hay bị ban đâu nhé mấy ní.
+> [!CAUTION]
+> **Tbh:** This is just a script that cleans the UI. It won't get u banned, but use it @ ur own risk. It's strictly 2 fix the laggy client.
 
-**Author:** [ttkienn](https://github.com/ttkienn)  
+**Dev:** [ttkienn](https://github.com/ttkienn)  
 *(If this saved ur mental health, drop a ⭐ on the repo pls 🙏)*
