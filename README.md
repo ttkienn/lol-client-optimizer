@@ -18,10 +18,9 @@ Rito's client is fr dogwater & eats RAM 8 breakfast 🤡. Ngl, it's lowkey a cry
 
 1. **DL** [Pengu Loader](https://pengu.lol/) (obv).
 2. **Open** plugins dir:  
-   `%AppData%\Local\PenguLoader\plugins`
-3. **Make** a new folder (e.g., `anti-lag-lol`).
-4. **Drop** ur `index.js` in there.
-5. **Relaunch** & enjoy the buttery smooth exp ✨.
+   `C:\Program Files\Pengu Loader\plugins`
+3. **Drop** ur `index.js` in there.
+4. **Relaunch** & enjoy the buttery smooth exp ✨.
 
 ---
 
